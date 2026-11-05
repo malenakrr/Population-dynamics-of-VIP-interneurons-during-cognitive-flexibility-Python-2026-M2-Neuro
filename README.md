@@ -18,4 +18,5 @@ All of these codes give the same outputs : PETH heatmap during the session, Popu
 - RS_Behavior_Correlation : correlates the timestamps of calcium peaks and nosepokes during the rule shift phase
 
 ### Population analysis
-NDNF_Population_Analysis : 
+NDNF_Population_Analysis : Run after the CNMF-E pipeline. This script measures how strongly calcium activity is correlated between every pair of neurons in a miniscope recording. It reads traces_and_rois.npz, computes Pearson correlations between ROI ΔF/F traces, and tests each pair against a circular-shift null with FDR correction. Cells are ordered by hierarchical clustering, and correlations are related to the distance between cells.
+
