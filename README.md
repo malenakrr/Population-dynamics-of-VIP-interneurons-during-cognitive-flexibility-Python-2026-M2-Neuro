@@ -1,7 +1,7 @@
 # Population dynamics of cortical interneurons during cognitive flexibility 
 # Python 2026 - M2 Neuro
-This repository contains the computational workflow used to analyze cranial window miniscope recordings in mice undergoing a rule-reversal behavioral paradigm.
-The goal of this project is to investigate whether cortical interneurons display specific, task-modulated activity patterns (such as differential responses to rewarded versus unrewarded nose pokes) during behavioral flexibility events and whether they act as a coordinated ensemble.
+This repository contains the computational workflow used to analyze miniscope recordings in mice undergoing a rule-reversal behavioral paradigm.
+The goal of this project is to investigate whether NDNF interneurons display specific, task-modulated activity patterns (such as differential responses to rewarded versus unrewarded nose pokes) during behavioral flexibility events and whether they act as a coordinated ensemble.
 This repository was developed by Florian Plumel, Léonie Raveniaud and Malena Kirchacker during the Python Applications for
 Neuroscience Research course, Université Paris Cité, 2025. © 2025 The contributors.
 Released under the MIT License.
